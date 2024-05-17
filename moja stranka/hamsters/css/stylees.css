@@ -1,0 +1,61 @@
+ 
+body {
+	width: 1200px;
+	margin:0 auto;
+}
+
+header {
+	height: 70px;
+	background-color:#FF9;
+}
+
+aside {
+	
+	background-color:#96FF97;
+			
+}
+
+main {
+	font: 16px "Lucida Sans Unicode", serif;
+	background-color:#FFF5F3;
+	padding: 50px;
+	color: #677;
+		
+}
+
+h1 {
+	font: "Tahoma", sans-serif;
+	padding-bottom: 20px;
+    padding-top: 85px;
+	border-bottom: solid 2px #FF7963;
+}
+
+.menu{
+	background-color:#FF7963;
+	padding: 1em 0;
+	padding-right: 1.7em;
+	float:left;
+	margin: 24px 34px 24px 0;
+	
+}
+
+.odkaz {
+	list-style: none;
+	padding-left: 0;
+}
+a {
+	line-height: 1.9em;
+	text-decoration: none;
+    padding-left: 30px;
+	
+}
+
+footer {
+    background-color: #FF7963;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: float;
+    bottom: 0;
+    width: 100%;
+}
